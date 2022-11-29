@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PS2.0 - Governance">
+</Property><Property Name="Solution File" Value="D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\PS2.0 - Governance.sln">
+</Property><Property Name="User Options File" Value="D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\PS2.0 - Governance.suo">
+</Property><Property Name="Date" Value="Tuesday, May 20, 2014">
+</Property><Property Name="Time" Value="18:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PS2.0 - Governance.sln" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\PS2.0 - Governance.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PS2.0 - Governance.suo" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\PS2.0 - Governance.suo">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\BAL.csproj" Description="Project file successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\BAL.csproj">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\BAL.csproj.user" Description="Project user file successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\BAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Account.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Account.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\AppException.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\AppException.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Approver.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Approver.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\AuditInfo.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\AuditInfo.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\BillingMileStoneInfo.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\BillingMileStoneInfo.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Clarity.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Clarity.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Contract.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Contract.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\DocumentVersion.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\DocumentVersion.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Employee.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Employee.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\EncryptDecrypt.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\EncryptDecrypt.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\GroupAttributes.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\GroupAttributes.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\KeyValue.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\KeyValue.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\LegalDocument.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\LegalDocument.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\LegalInfo.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\LegalInfo.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\MailingList.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\MailingList.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\MailNotification.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\MailNotification.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Message.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Message.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\MiscellaneousInformation.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\MiscellaneousInformation.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Organization.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Organization.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\ProjectBilling.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\ProjectBilling.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\ClosureRequest.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\ClosureRequest.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\ProjectClosure.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\ProjectClosure.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\ProjectRequest.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\ProjectRequest.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Request.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Request.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Person.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Person.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\RequestDetail.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\RequestDetail.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Role.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Role.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\SearchCriteria.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\SearchCriteria.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Service References\DocumentRepository\Reference.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Service References\DocumentRepository\Reference.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\TaskRequest.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\TaskRequest.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Tenure.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Tenure.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Utility.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Utility.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\OBS.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\OBS.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\BALClassDiagram.cd" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\BALClassDiagram.cd">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Service References\DocumentRepository\configuration.svcinfo" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Service References\DocumentRepository\configuration.svcinfo">
+</Event><Event ErrorLevel="2" Project="BAL" Source="BAL\PS.cd" Description="Failed to backup file as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\PS.cd">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Service References\DocumentRepository\PSDocumentService.wsdl" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Service References\DocumentRepository\PSDocumentService.wsdl">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Service References\DocumentRepository\PSDocumentService1.xsd" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Service References\DocumentRepository\PSDocumentService1.xsd">
+</Event><Event ErrorLevel="2" Project="BAL" Source="BAL\Service References\DocumentRepository\PSDocumentService11.xsd" Description="Failed to backup file as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Service References\DocumentRepository\PSDocumentService11.xsd">
+</Event><Event ErrorLevel="2" Project="BAL" Source="BAL\Service References\DocumentRepository\PSDocumentService12.xsd" Description="Failed to backup file as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Service References\DocumentRepository\PSDocumentService12.xsd">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\Service References\DocumentRepository\Reference.svcmap" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\BAL\Service References\DocumentRepository\Reference.svcmap">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\BAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BAL" Source="BAL\BAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project file successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DataHandler.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\DAL\DataHandler.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Developement\ESS\Project\Project Setup\PS2.0 - Governance\Backup\DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PS2.0 - Governance.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PS2.0 - Governance.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BAL" Source="BAL\BAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
